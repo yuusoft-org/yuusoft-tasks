@@ -1,0 +1,9 @@
+workspaces:
+  - name: Yuusoft
+    projects:
+      - name: Kanbatte
+        url: http://kanbatte.yuusoft.com
+  - name: RouteVN
+    projects:
+      - name: Route Graphics
+        url: http://route-graphics.routevn.com
