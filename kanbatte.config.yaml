@@ -3,7 +3,17 @@ workspaces:
     projects:
       - name: Kanbatte
         url: https://kanbatte.yuusoft.com
+      - name: Rettangoli
+        url: https://rettangoli.dev
+      - name: Insieme
+        url: https://insieme.yuusoft.com
   - name: RouteVN
     projects:
       - name: Route Graphics
         url: https://route-graphics.routevn.com
+      - name: Route Engine
+        url: https://route-engine.routevn.com
+      - name: RouteVN Creator Client
+        url: https://routevn-creator-client.routevn.com
+      - name: RouteVN Website
+        url: https://routevn.com
